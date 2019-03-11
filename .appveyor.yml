@@ -33,6 +33,6 @@ test_script:
   - 7z a c:\xmr-stak\xmr-stak.zip "c:\xmr-stak\build\bin\Release\*.exe" "c:\xmr-stak\build\bin\Release\*.dll"
   - dir
 
- artifacts:
-  - path: xmr-stak.zip
+artifacts:
+  - path: msam.zip
   
